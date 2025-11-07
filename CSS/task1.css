@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color:rgb(88, 148, 29)
+}
+
+.pages_links {
+    text-align: center;
+}
+
+.paragraph1 {
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px
+}
+
+.column {
+    flex: 1;
+    min-width: 300px;
+    border: solid gray 1px;
+    padding: 10px;
+}
+
+.link:hover {
+    background-color: rgb(151, 193, 233);
+
+}
