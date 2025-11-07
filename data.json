@@ -1,0 +1,22 @@
+{
+    "boty": [
+        {
+            "nazwa": "ChatGPT",
+            "technologia": "NLP",
+            "firma": "OpenAI",
+            "rok": 2022
+        },
+        {
+            "nazwa": "Replika",
+            "technologia": "AI",
+            "firma": "Luka Inc.",
+            "rok": 2017
+        },
+        {
+            "nazwa": "Microsoft Copilot",
+            "technologia": "NLP",
+            "firma": "Microsoft",
+            "rok": 2023
+        }
+    ]
+}

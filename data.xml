@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aplikacje>
+    <ChatGPT>
+        <powstanie rodzaj="liczba">2022</powstanie>
+        <autor rodzaj="tekst">OpenAI</autor>
+        <uzytkownicy rodzaj="ilosc">100 milionów</uzytkownicy>
+        <kraj rodzaj="tekst">USA</kraj>
+    </ChatGPT>
+
+    <GoogleLens>
+        <powstanie rodzaj="liczba">2017</powstanie>
+        <autor rodzaj="tekst">Google LLC</autor>
+        <uzytkownicy rodzaj="ilosc">500 milionów</uzytkownicy>
+        <kraj rodzaj="tekst">USA</kraj>
+    </GoogleLens>
+
+    <Replika>
+        <powstanie rodzaj="liczba">2017</powstanie>
+        <autor rodzaj="tekst">Luka, Inc.</autor>
+        <uzytkownicy rodzaj="ilosc">10 milionów</uzytkownicy>
+        <kraj rodzaj="tekst">USA</kraj>
+    </Replika>
+
+</aplikacje>
