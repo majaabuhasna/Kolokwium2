@@ -12,3 +12,7 @@ form textarea{
     width: 20%;
     background-color: blue;
 }
+div button {
+    margin-right: 1cm;
+    background-color: orange;
+}
